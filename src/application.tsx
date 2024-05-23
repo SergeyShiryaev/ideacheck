@@ -10,7 +10,7 @@ export function App() {
 
   return (
     <div className="App">
-	Hello Clicker !!!
+	    Check 
     </div>
   );
 }
